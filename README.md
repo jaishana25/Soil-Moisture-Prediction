@@ -7,6 +7,7 @@ This script requires the following Python libraries:
 3) sklearn
 
 You can install these libraries using pip or conda.
+
 # Usage
 To use this code, you'll need to do the following:
 1) Clone this repository to your local machine.
@@ -32,8 +33,10 @@ pres - pressure
 
 Run the Soil Moisture Prediction.py script to generate predictions for the period March 11, 2023, to March 31, 2023.
 The output file will be generated in the same folder as the input file, named "predicted_values.csv".
+
 # Configuration
-You have the ability to modify dates in order to make predictions about the temperature, humidity, and moisture levels for those specific dates.
+You have the ability to modify dates in order to make predictions about the temperature, humidity, and moisture levels for those specific dates
+.
 # Input Data
 The input data file should be a CSV file with the following columns:
 
@@ -64,3 +67,9 @@ The output data file will be a CSV file with the following columns:
 
 # Random Forest Regression
 Random forest regression is an ensemble learning method for regression that operates by constructing multiple decision trees at training time and outputting the mean or mode of the predictions of the individual trees. Random forest regression can be used to predict a continuous variable such as temperature, soil moisture, and humidity. It has been proven by multiple researches to yield better prediction results compared to other algorithms such as Support Vector Machines (SVM), Linear Regression (LR), etc.
+
+#Team Members 
+
+R S Gokul Varun 8778344369
+Jaishana Bindhu Priya 8870040108
+Raunit Pratik 9931437073
