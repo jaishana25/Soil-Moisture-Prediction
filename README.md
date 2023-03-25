@@ -68,7 +68,7 @@ The output data file will be a CSV file with the following columns:
 # Random Forest Regression
 Random forest regression is an ensemble learning method for regression that operates by constructing multiple decision trees at training time and outputting the mean or mode of the predictions of the individual trees. Random forest regression can be used to predict a continuous variable such as temperature, soil moisture, and humidity. It has been proven by multiple researches to yield better prediction results compared to other algorithms such as Support Vector Machines (SVM), Linear Regression (LR), etc.
 
-#Team Members 
+# Team Members 
 
 R S Gokul Varun 8778344369
 Jaishana Bindhu Priya 8870040108
