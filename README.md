@@ -13,7 +13,7 @@ To use this code, you'll need to do the following:
 1) Clone this repository to your local machine.
 2) Install the necessary dependencies using pip.
 3) Update the input file with your data. The input file should include the following columns:
-ttime - timestamp in yyyy-mm-dd format
+ttime - timestamp in yyyy-mm-dd hh-mi-ss format
 
 pm - particulate matter (1,2,3 is categorised into different sizes)
 
